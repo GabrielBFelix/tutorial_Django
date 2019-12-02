@@ -1,6 +1,3 @@
-# tutorial_Django
-Link do tutorial: https://docs.djangoproject.com/pt-br/2.2/intro/tutorial01/
-
 # Django:
 
 	É um framework para aplicações web gratuito e de código aberto, escrito em Python. Uma framework, onde você não precisa saber muito de Python para utilizar. Na verdade, a simplicidade da escrita do Python mesclada a velocidade de desenvolvimento proporcionada pelo Django faz você sentir satisfação em encarar projetos grandes.
@@ -15,3 +12,5 @@ View: Parte do programa responsável pelo processamento lógico e matemático, f
 
 Template:Templates é a camada que retorna a visão para o usuário do programa. Essa camada é composta por, HTML,CSS, javascript e etc. Geralmente linguagens focadas na apresentação do site para o usuário. 
 
+# Tutorial Django
+Link do tutorial: https://docs.djangoproject.com/pt-br/2.2/intro/tutorial01/
